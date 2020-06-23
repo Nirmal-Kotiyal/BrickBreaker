@@ -71,7 +71,7 @@ public class Game extends JPanel implements KeyListener, ActionListener {
             ballXDir=0;
             g.setColor(Color.GREEN);
             g.setFont(new Font("serif",Font.BOLD,30));
-            g.drawString("You Won Congratulation",190,300);
+            g.drawString("You Won !!!!",190,300);
             g.setFont(new Font("serif",Font.BOLD,20));
             g.drawString("Press Enter to Restart ",230,350);
         }
